@@ -8,6 +8,8 @@ const app = {
     options: []
 }
 
+// added a comment
+
 const onFormSubmit = (e) => {
     e.preventDefault()
 
